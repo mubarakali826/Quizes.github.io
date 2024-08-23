@@ -6,8 +6,8 @@ let questions = [
       options: [
         "input",
         "form",
-          "textarea",
-          "button"
+        "textarea",
+        "button"
       ]
   },
   {
@@ -40,7 +40,7 @@ let questions = [
         "tr",
         "td",
         "table",
-          "thead"
+        "thead"
       ]
   },
   {
@@ -82,9 +82,9 @@ let questions = [
       answer: "li",
       options: [
         "li",
-          "list",
-          "item",
-          "ul"
+        "list",
+        "item",
+        "ul"
       ]
   },
   {
